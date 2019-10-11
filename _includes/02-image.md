@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Typical American Birb](https://i.kym-cdn.com/photos/images/newsfeed/000/116/060/BirdsArms1.PNG)
